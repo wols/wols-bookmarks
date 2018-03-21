@@ -2,11 +2,16 @@
 :linkattrs:
 :toc:
 
+NOTE: Enter at your own risk!
+
 == A
 
 === Asciidoctor
 
 * link:http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer’s Guide, window="_blank"]
+* link:http://asciidoctor.org/docs/user-manual/[Asciidoctor User Manual, window="_blank"]
+
+* link:https://github.com/msavy/gitbook-plugin-asciidoc-admonition-icons[ GitBook plugin that restores font icons for AsciiDoc/Asciidoctor admonition blocks ]
 
 == L
 
