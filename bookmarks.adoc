@@ -5,5 +5,6 @@
 
 === Wiki
 
-* link:https://github.com/gollum/gollum[gollum, window="_blank"]
+* link:https://www.dokuwiki.org/dokuwiki[DokuWiki, window="_blank"]
+* link:https://github.com/gollum/gollum[Gollum, window="_blank"]
 ** link:https://www.vultr.com/docs/how-to-setup-a-github-style-wiki-using-gollum-on-centos-7[How to Setup a GitHub Style Wiki Using Gollum on CentOS 7, window="_blank"]
