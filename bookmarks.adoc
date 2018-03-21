@@ -1,10 +1,11 @@
 = WOLS Bookmarks
 WOLS
-:icons:     font
+:icons:       font
 :linkattrs:
+:tip-caption: pass:[&#128161;]
 :toc:
 
-NOTE: Enter at your own risk!
+TIP: Enter at your own risk!footnote[Unicode Admonition Icon]
 
 == A
 
@@ -14,6 +15,7 @@ NOTE: Enter at your own risk!
 * link:http://asciidoctor.org/docs/user-manual/[Asciidoctor User Manual, window="_blank"]
 * GitHub
 ** link:https://asciidoctor.org/news/2014/02/04/github-asciidoctor-0.1.4-upgrade-5-things-to-know/[5 things to know about the GitHub Asciidoctor upgrade, window="_blank"]
+** link:http://asciidoctor.org/docs/user-manual/#unicode-admonition-icons[Unicode Admonition Icons, window="_blank"]
 ** link:https://github.com/msavy/gitbook-plugin-asciidoc-admonition-icons[GitBook plugin that restores font icons for AsciiDoc/Asciidoctor admonition blocks]
 
 == L
