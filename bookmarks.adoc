@@ -1,4 +1,6 @@
 = WOLS Bookmarks
+WOLS
+:icons:     font
 :linkattrs:
 :toc:
 
