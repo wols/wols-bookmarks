@@ -1,6 +1,14 @@
 = WOLS Bookmarks
 :linkattrs:
 
+== L
+
+=== Linux
+
+==== Oracle Linux
+
+* link:https://blogs.oracle.com/wim/using-epel-repos-with-oracle-linux[Using EPEL repos with Oracle Linux, window="_blank"]
+
 == W
 
 === Wiki
