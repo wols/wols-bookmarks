@@ -8,3 +8,10 @@
 * link:https://www.dokuwiki.org/dokuwiki[DokuWiki, window="_blank"]
 * link:https://github.com/gollum/gollum[Gollum, window="_blank"]
 ** link:https://www.vultr.com/docs/how-to-setup-a-github-style-wiki-using-gollum-on-centos-7[How to Setup a GitHub Style Wiki Using Gollum on CentOS 7, window="_blank"]
+
+== X
+
+=== Xen
+
+* USB
+** link:http://www.virtuatopia.com/index.php/Adding_USB_Devices_to_a_Xen_HVM_domainU_Guest[Adding USB Devices to a Xen HVM domainU Guest, window="_blank"]
