@@ -10,8 +10,9 @@ NOTE: Enter at your own risk!
 
 * link:http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer’s Guide, window="_blank"]
 * link:http://asciidoctor.org/docs/user-manual/[Asciidoctor User Manual, window="_blank"]
-
-* link:https://github.com/msavy/gitbook-plugin-asciidoc-admonition-icons[ GitBook plugin that restores font icons for AsciiDoc/Asciidoctor admonition blocks ]
+* GitHub
+** link:https://asciidoctor.org/news/2014/02/04/github-asciidoctor-0.1.4-upgrade-5-things-to-know/[5 things to know about the GitHub Asciidoctor upgrade, window="_blank"]
+** link:https://github.com/msavy/gitbook-plugin-asciidoc-admonition-icons[GitBook plugin that restores font icons for AsciiDoc/Asciidoctor admonition blocks]
 
 == L
 
