@@ -1,5 +1,6 @@
 = WOLS Bookmarks
 :linkattrs:
+:toc:
 
 == L
 
