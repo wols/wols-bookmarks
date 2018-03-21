@@ -5,7 +5,7 @@ WOLS
 :tip-caption: pass:[&#128161;]
 :toc:
 
-TIP: Enter at your own risk!
+TIP: *Enter at your own risk!*
 
 == A
 
