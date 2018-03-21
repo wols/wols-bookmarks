@@ -21,5 +21,6 @@
 
 === Xen
 
-* USB
-** link:http://www.virtuatopia.com/index.php/Adding_USB_Devices_to_a_Xen_HVM_domainU_Guest[Adding USB Devices to a Xen HVM domainU Guest, window="_blank"]
+==== USB
+
+* link:http://www.virtuatopia.com/index.php/Adding_USB_Devices_to_a_Xen_HVM_domainU_Guest[Adding USB Devices to a Xen HVM domainU Guest, window="_blank"]
