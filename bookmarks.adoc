@@ -26,6 +26,10 @@ TIP: *Enter at your own risk!*
 
 * link:https://blogs.oracle.com/wim/using-epel-repos-with-oracle-linux[Using EPEL repos with Oracle Linux, window="_blank"]
 
+== LVM
+
+* link:https://www.thomas-krenn.com/de/wiki/Dd_Sicherung_von_Partitionen_oder_LVM_Volumes_übers_Netzwerk[Dd Sicherung von Partitionen oder LVM Volumes übers Netzwerk, window="_blank"]
+
 == W
 
 === Wiki
