@@ -30,6 +30,12 @@ TIP: *Enter at your own risk!*
 
 * link:https://www.thomas-krenn.com/de/wiki/Dd_Sicherung_von_Partitionen_oder_LVM_Volumes_übers_Netzwerk[Dd Sicherung von Partitionen oder LVM Volumes übers Netzwerk, window="_blank"]
 
+== S
+
+=== Stop Motion
+
+* link:https://www.stopmotiontutorials.com/[Stop Motion Tutorials, window="_blank"]
+
 == W
 
 === Wiki
