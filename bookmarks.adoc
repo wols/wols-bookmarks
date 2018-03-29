@@ -22,6 +22,10 @@ TIP: *Enter at your own risk!*
 
 === Linux Distribution
 
+==== CentosOS
+
+
+
 ==== Oracle Linux
 
 * link:https://blogs.oracle.com/wim/using-epel-repos-with-oracle-linux[Using EPEL repos with Oracle Linux, window="_blank"]
@@ -51,3 +55,9 @@ TIP: *Enter at your own risk!*
 ==== USB
 
 * link:http://www.virtuatopia.com/index.php/Adding_USB_Devices_to_a_Xen_HVM_domainU_Guest[Adding USB Devices to a Xen HVM domainU Guest, window="_blank"]
+
+=== Xfce Desktop
+
+==== CentOS
+
+* link:https://www.dedoimedo.com/computers/centos-7-xfce-tame-pimp.html[How to tame and pimp Xfce on CentOS 7, window="_blank"]
