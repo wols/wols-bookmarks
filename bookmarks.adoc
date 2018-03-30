@@ -9,6 +9,8 @@ TIP: *Enter at your own risk!*
 
 toc::[]
 
+TIP: *Enter at your own risk!*
+
 == A
 
 === Asciidoctor
@@ -63,5 +65,3 @@ toc::[]
 ==== CentOS
 
 * link:https://www.dedoimedo.com/computers/centos-7-xfce-tame-pimp.html[How to tame and pimp Xfce on CentOS 7, window="_blank"]
-
-TIP: *Enter at your own risk!*
