@@ -64,5 +64,5 @@ TIP: *Enter at your own risk!*
 
 ==== CentOS
 
-* link:https://www.rootusers.com/how-to-install-xfce-gui-in-centos-7-linux/[How To Install Xfce GUI In CentOS 7 Linux, window="_blank"]
+* link:http://www.tuxfixer.com/install-xfce-4-desktop-environment-on-centos-7/[Install Xfce 4 Desktop Environment on CentOS 7, window="_blank"]
 * link:https://www.dedoimedo.com/computers/centos-7-xfce-tame-pimp.html[How to tame and pimp Xfce on CentOS 7, window="_blank"]
