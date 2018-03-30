@@ -3,9 +3,11 @@ WOLS
 :icons:       font
 :linkattrs:
 :tip-caption: pass:[&#128161;]
-:toc:
+:toc:         macro
 
 TIP: *Enter at your own risk!*
+
+toc::[]
 
 == A
 
@@ -61,3 +63,5 @@ TIP: *Enter at your own risk!*
 ==== CentOS
 
 * link:https://www.dedoimedo.com/computers/centos-7-xfce-tame-pimp.html[How to tame and pimp Xfce on CentOS 7, window="_blank"]
+
+TIP: *Enter at your own risk!*
