@@ -28,7 +28,7 @@ TIP: *Enter at your own risk!*
 
 ==== CentosOS
 
-
+* link:https://www.tecmint.com/install-libreoffice-on-rhel-centos-fedora-debian-ubuntu-linux-mint/[Install LibreOffice, window="_blank"]
 
 ==== Oracle Linux
 
