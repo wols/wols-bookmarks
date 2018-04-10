@@ -22,6 +22,11 @@ TIP: *Enter at your own risk!*
 ** link:http://asciidoctor.org/docs/user-manual/#unicode-admonition-icons[Unicode Admonition Icons, window="_blank"]
 ** link:https://github.com/msavy/gitbook-plugin-asciidoc-admonition-icons[GitBook plugin that restores font icons for AsciiDoc/Asciidoctor admonition blocks]
 
+==== Backends
+
+* link:https://github.com/houqp/asciidoc-deckjs[asciidoc-deckjs, window="_blank"]
+** link:https://github.com/imakewebthings/deck.js[deck.js, window="_blank"]
+
 == L
 
 === Linux Distribution
