@@ -27,6 +27,12 @@ TIP: *Enter at your own risk!*
 * link:https://github.com/houqp/asciidoc-deckjs[asciidoc-deckjs, window="_blank"]
 ** link:https://github.com/imakewebthings/deck.js[deck.js, window="_blank"]
 
+== I
+
+=== Icinga 2
+
+* link:https://blog.netways.de/series/icinga_2_best_practice/[NETWAYS: Icinga 2 Best Practice (1-7), window="_blank"]
+
 == L
 
 === Linux Distribution
