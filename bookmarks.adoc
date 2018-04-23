@@ -29,6 +29,10 @@ TIP: *Enter at your own risk!*
 
 == G
 
+=== Grafana
+
+* link:https://grafana.com/blog/2016/03/09/how-to-effectively-use-the-elasticsearch-data-source-in-grafana-and-solutions-to-common-pitfalls/[How to effectively use the Elasticsearch data source in Grafana and solutions to common pitfalls, window="_blank"]
+
 === Graphs
 
 ==== Neo4j
