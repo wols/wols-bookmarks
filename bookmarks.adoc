@@ -27,6 +27,14 @@ TIP: *Enter at your own risk!*
 * link:https://github.com/houqp/asciidoc-deckjs[asciidoc-deckjs, window="_blank"]
 ** link:https://github.com/imakewebthings/deck.js[deck.js, window="_blank"]
 
+== G
+
+=== Graphs
+
+==== Neo4j
+
+* link:https://www.graphgrid.com/systemd-neo4j-ubuntu/[systemd Neo4j service on Ubuntu, window="_blank"]
+
 == I
 
 === Icinga 2
