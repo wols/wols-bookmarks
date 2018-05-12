@@ -44,7 +44,11 @@ TIP: *Enter at your own risk!*
 === Icinga 2
 
 * link:https://blog.netways.de/series/icinga_2_best_practice/[NETWAYS: Icinga 2 Best Practice (1-7), window="_blank"]
-* link:https://blog.netways.de/2016/03/21/check_by_ssh-mit-icinga-2/[NETWAYS: check_by_ssh mit Icinga 2, window="_blank"]]
+* link:https://blog.netways.de/2016/03/21/check_by_ssh-mit-icinga-2/[NETWAYS: check_by_ssh mit Icinga 2, window="_blank"]
+
+=== Icinga Web 2
+
+* link:https://github.com/RRZE-PP/rrze-icon-set[rrze-icon-set, window="_blank"]
 
 == L
 
