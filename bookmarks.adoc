@@ -27,6 +27,12 @@ TIP: *Enter at your own risk!*
 * link:https://github.com/houqp/asciidoc-deckjs[asciidoc-deckjs, window="_blank"]
 ** link:https://github.com/imakewebthings/deck.js[deck.js, window="_blank"]
 
+== E
+
+=== Elasticsearch
+
+* link:https://github.com/lmenezes/cerebro[Cerebro - Elasticsearch web admin tool, window="_blank"]
+
 == G
 
 === Grafana
