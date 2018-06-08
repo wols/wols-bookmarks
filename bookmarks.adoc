@@ -72,6 +72,18 @@ TIP: *Enter at your own risk!*
 
 * link:https://www.thomas-krenn.com/de/wiki/Dd_Sicherung_von_Partitionen_oder_LVM_Volumes_übers_Netzwerk[Dd Sicherung von Partitionen oder LVM Volumes übers Netzwerk, window="_blank"]
 
+== N
+
+=== NTP
+
+==== Protocol
+
+* link:http://support.ntp.org/bin/view/Support/RefidFormat[REFID Format, window="_blank"]
+
+==== Software
+
+*
+
 == S
 
 === Stop Motion
