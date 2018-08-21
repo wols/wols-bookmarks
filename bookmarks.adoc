@@ -33,6 +33,12 @@ TIP: *Enter at your own risk!*
 
 * link:https://github.com/lmenezes/cerebro[Cerebro - Elasticsearch web admin tool, window="_blank"]
 
+== F
+
+=== F5 LTM
+
+* link:https://somoit.net/f5-big-ip/f5-big-ip-useful-snmp-oids-monitor["F5 BIG-IP – Useful SNMP oids to monitor", window="_blank"]
+
 == G
 
 === Grafana
