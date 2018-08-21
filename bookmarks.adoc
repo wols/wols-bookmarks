@@ -38,6 +38,8 @@ TIP: *Enter at your own risk!*
 === F5 LTM
 
 * link:https://somoit.net/f5-big-ip/f5-big-ip-useful-snmp-oids-monitor["F5 BIG-IP – Useful SNMP oids to monitor", window="_blank"]
+* link:https://sysadmintechsite.wordpress.com/2017/04/03/check-check-f5-ltm-virtual-server-connections-nagios-plugin/["Check F5 LTM virtual server connections...", window="_blank"]
+** link:https://github.com/brightrif/nagios_plugins["...Nagios plugin", window="_blank"]
 
 == G
 
