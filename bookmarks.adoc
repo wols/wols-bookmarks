@@ -27,6 +27,13 @@ TIP: *Enter at your own risk!*
 * link:https://github.com/houqp/asciidoc-deckjs[asciidoc-deckjs, window="_blank"]
 ** link:https://github.com/imakewebthings/deck.js[deck.js, window="_blank"]
 
+==== Tutorials
+
+* link:https://www.metanorma.com/blog/2018-12-11-writing-metanorma-in-asciidoctor/[Nick Nicholas: Writing in Asciidoctor, window="_blank"]
+** link:https://www.metanorma.com/blog/2018-12-15-writing-metanorma-in-asciidoctor-2/[Part 2, window="_blank"]
+** link:https://www.metanorma.com/blog/2018-12-16-writing-metanorma-in-asciidoctor-3/[Part 3, window="_blank"]
+** link:https://www.metanorma.com/blog/2019-01-15-writing-metanorma-in-asciidoctor-4/[Part 4, window="_blank"]
+
 == E
 
 === Elasticsearch
