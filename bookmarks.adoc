@@ -106,6 +106,15 @@ TIP: *Enter at your own risk!*
 
 * link:https://www.stopmotiontutorials.com/[Stop Motion Tutorials, window="_blank"]
 
+== T
+
+=== Timekeeping
+
+==== VMware
+
+* link:https://blogs.vmware.com/vsphere/2018/07/timekeeping-within-esxi.html[Timekeeping within ESXi, window="_blank"]
+* link:https://www.vmware.com/files/pdf/techpaper/Timekeeping-In-VirtualMachines.pdf[Timekeeping in VMware Virtual Machines, window="_blank"]
+
 == W
 
 === Wiki
